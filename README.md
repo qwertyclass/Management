@@ -1,6 +1,6 @@
 ## MO-TECH
 
-Telegram Bos
+Telegram Bots (Tg_Bots)
 
 ## YOUTUBE CHANNEL LINK 👇
 
