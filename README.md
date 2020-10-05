@@ -13,14 +13,11 @@ Telegram Bots (Tg_Bots)
 
 [..Content For Instagram..](www.instagram.com/motech._)
 
-## DESPLOY KEY
+# DESPLOY KEY
 
 
 
-### മലയാളം Version
+## മലയാളം Version
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mo-Tech-Muhammed/Filter-Malayalam)
 
-
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mo-Tech-Muhammed/Sabithkp)
