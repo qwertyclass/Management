@@ -1,14 +1,12 @@
-## MO-TECH
+# MO-Tech
 
-Telegram Bots (Tg_Bots)
-
-# DESPLOY KEY
-
-
-
-## മലയാളം Version
+### മലയാളം Version
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mo-Tech-Muhammed/Filter-Malayalam)
+
+### English Version
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mo-Tech-Muhammed/Filter-English)
 
 ## YOUTUBE CHANNEL LINK 👇
 
