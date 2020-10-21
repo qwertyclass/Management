@@ -9,10 +9,10 @@
 
 ## CONTECT
 
-<a href="https://www.instagram.com/motech._"><img src="https://img.shields.io/badge/FFOLLOW%20ON-INSTAGRAM-red.svg?logo=INSTAGRAM"></a>
+<a href="https://www.instagram.com/motech._"><img src="https://img.shields.io/badge/FOLLOW%20ON-INSTAGRAM-red.svg?logo=INSTAGRAM"></a>
 
 
-<a href="https://telegram.dog/mo_Tech_youtube"><img src="https://img.shields.io/badge/FFOLLOW%20ON-TELEGRAM-red.svg?logo=TELEGRAM"></a>
+<a href="https://telegram.dog/mo_Tech_youtube"><img src="https://img.shields.io/badge/FOLLOW%20ON-TELEGRAM-red.svg?logo=TELEGRAM"></a>
 
 
 ### FILTER BOT
