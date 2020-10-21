@@ -18,8 +18,6 @@
 <a href="https://www.instagram.com/motech._"><img src="https://img.shields.io/badge/FFOLLOW%20ON-INSTAGRAM-red.svg?logo=INSTAGRAM"></a>
 
 
+<a href="https://telegram.dog/mo_Tech_youtube"><img src="https://img.shields.io/badge/FFOLLOW%20ON-INSTAGRAM-red.svg?logo=TELEGRAM"></a>
 
 
-[..Contect For Telegram..](https://t.me/Mo_Tech_YouTube)
-
-[..Contect For Instagram..](www.instagram.com/motech._)
