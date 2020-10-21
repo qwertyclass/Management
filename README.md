@@ -17,7 +17,7 @@
 
 ### FILTER BOT
 
-<a href="https://telegram.dog/Filter_Ro_Bot"><img src="https://img.shields.io/badge/USE%20FULL-BOT-red.svg?logo=TELEGRAM"></a>
+<a href="https://telegram.dog/Filters_Ro_Bot"><img src="https://img.shields.io/badge/USE%20FULL-BOT-red.svg?logo=TELEGRAM"></a>
 
 ### Deploy👇
 
