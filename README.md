@@ -23,7 +23,7 @@
 
 #### മലയാളം Version
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mo-Tech-Muhammed/Filter-Malayalam)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/qwertyclass/Muhammed)
 
 #### English Version
 
