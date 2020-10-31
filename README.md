@@ -27,7 +27,7 @@
 
 #### English Version
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/qwertyclass/Mo-Tech)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/qwertyclass/Muhammed)
 
 
 
