@@ -19,16 +19,7 @@
 
 <a href="https://telegram.dog/Filters_Ro_Bot"><img src="https://img.shields.io/badge/USE%20FULL-BOT-red.svg?logo=TELEGRAM"></a>
 
-### Deploy👇
-
-#### മലയാളം Version
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/qwertyclass/Muhammed)
-
-#### English Version
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/qwertyclass/Muhammed)
-
+### No Deploy Button 
 
 
 
